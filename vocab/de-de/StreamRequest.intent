@@ -1,4 +1,4 @@
-(stream|streame) {station}
+(stream|streame|spiel|spiele) {station}
 (stream|streame) {station} radio
 (stream|streame) {station} internet radio
 (stream|streame) {station} (auf|mit) tune in
